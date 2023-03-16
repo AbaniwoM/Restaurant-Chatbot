@@ -2,7 +2,7 @@
 
 ## Demo link
 
-You can view the live project [here](https://michael-abaniwo-lendsqr-fe-test.netlify.app/)
+You can view the live project [here](https://the-restaurant-chatbot.onrender.com/)
 
 ## About The App
 
@@ -28,11 +28,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 - The chatbot responds with options for the user to select from:
 
-Select 1 to Place an order
-Select 99 to checkout order
-Select 98 to see order history
-Select 97 to see current order
-Select 0 to cancel order
+- Select 1 to Place an order
+- Select 99 to checkout order
+- Select 98 to see order history
+- Select 97 to see current order
+- Select 0 to cancel order
 
 - When the customer selects 1, the chatbot returns the list of the items the customer can order
 
