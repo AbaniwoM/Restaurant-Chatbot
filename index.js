@@ -26,7 +26,7 @@ const fastFoods = {
     2: "Pizza and Ice-cream",
     3: "Jollof Rice and Beef",
     4: "Goat meat pepper-soup",
-  };
+};
   
   const orderHistory = [];
   
